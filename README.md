@@ -6,11 +6,13 @@
 
 ![Hammock Bear breathing at idle and sticking out his tongue on hover / 狗奴的待机和悬停动画](preview.gif)
 
-**[Watch all 9 animations · 看完整动作演示](all-actions.mp4)** · **[Install on desktop · 安装到桌面](#install--安装)** · **[Download the V2 sprite sheet · 下载精灵图](https://raw.githubusercontent.com/roarstarxu-art/Hammock-Bear-ChatGPT-Desktop-Pet/main/spritesheet.png)**
+**[Watch all 9 animations · 看完整动作动图](all-actions.gif)** · **[Install on desktop · 安装到桌面](#install--安装)** · **[Download the V2 sprite sheet · 下载精灵图](https://raw.githubusercontent.com/roarstarxu-art/Hammock-Bear-ChatGPT-Desktop-Pet/main/spritesheet.png)**
 
 Working, waving, or crawling across the screen in a white fundoshi, he gives you plenty of reasons to look away from your to-do list. The V2 sheet includes **9 animation states and 16 gaze directions**.
 
 他会坐吊床、挥手打招呼，还会穿着白色日式传统褌低伏爬过屏幕。V2 精灵图包含 **9 个动作状态和 16 个视线方向**。
+
+[Download the MP4 demo · 下载完整动作视频](https://github.com/roarstarxu-art/Hammock-Bear-ChatGPT-Desktop-Pet/raw/refs/heads/main/all-actions.mp4)
 
 ## Install · 安装
 
